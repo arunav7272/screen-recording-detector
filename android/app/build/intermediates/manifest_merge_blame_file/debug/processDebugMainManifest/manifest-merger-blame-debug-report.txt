@@ -1,0 +1,226 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.screenrecorderdetector"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+11-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:5:5-77
+11-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:5:22-74
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+12-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:6:5-89
+12-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:6:22-86
+13    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+13-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:7:5-78
+13-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:7:22-75
+14    <uses-permission android:name="android.permission.VIBRATE" />
+14-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:8:5-66
+14-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:8:22-63
+15    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+15-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:9:5-81
+15-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:9:22-78
+16    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS" />
+16-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:10:5-114
+16-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:10:22-75
+17    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+17-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:11:5-77
+17-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:11:22-74
+18    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+18-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:12:5-77
+18-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:12:22-74
+19
+20    <permission
+20-->[androidx.core:core:1.12.0] C:\Users\aruna\.gradle\caches\8.13\transforms\8f3496b8f1c2cce5107b201a0c3a90e1\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+21        android:name="com.example.screenrecorderdetector.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+21-->[androidx.core:core:1.12.0] C:\Users\aruna\.gradle\caches\8.13\transforms\8f3496b8f1c2cce5107b201a0c3a90e1\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+22        android:protectionLevel="signature" />
+22-->[androidx.core:core:1.12.0] C:\Users\aruna\.gradle\caches\8.13\transforms\8f3496b8f1c2cce5107b201a0c3a90e1\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+23
+24    <uses-permission android:name="com.example.screenrecorderdetector.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+24-->[androidx.core:core:1.12.0] C:\Users\aruna\.gradle\caches\8.13\transforms\8f3496b8f1c2cce5107b201a0c3a90e1\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+24-->[androidx.core:core:1.12.0] C:\Users\aruna\.gradle\caches\8.13\transforms\8f3496b8f1c2cce5107b201a0c3a90e1\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+25
+26    <application
+26-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:14:5-77:19
+27        android:allowBackup="true"
+27-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:15:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.12.0] C:\Users\aruna\.gradle\caches\8.13\transforms\8f3496b8f1c2cce5107b201a0c3a90e1\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+29        android:dataExtractionRules="@xml/data_extraction_rules"
+29-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:16:9-65
+30        android:debuggable="true"
+31        android:extractNativeLibs="false"
+32        android:fullBackupContent="@xml/backup_rules"
+32-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:17:9-54
+33        android:icon="@android:mipmap/sym_def_app_icon"
+33-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:18:9-56
+34        android:label="@string/app_name"
+34-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:19:9-41
+35        android:roundIcon="@android:mipmap/sym_def_app_icon"
+35-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:20:9-61
+36        android:supportsRtl="true"
+36-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:21:9-35
+37        android:theme="@style/Theme.ScreenRecorderDetector" >
+37-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:22:9-60
+38        <activity
+38-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:25:9-32:20
+39            android:name="com.example.screenrecorderdetector.MainActivity"
+39-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:26:13-41
+40            android:exported="true" >
+40-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:27:13-36
+41            <intent-filter>
+41-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:28:13-31:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:29:17-69
+42-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:29:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:30:17-77
+44-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:30:27-74
+45            </intent-filter>
+46        </activity>
+47        <activity
+47-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:34:9-36:40
+48            android:name="com.example.screenrecorderdetector.HistoryActivity"
+48-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:35:13-44
+49            android:exported="false" />
+49-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:36:13-37
+50        <activity
+50-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:38:9-40:40
+51            android:name="com.example.screenrecorderdetector.RiskAlertActivity"
+51-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:39:13-46
+52            android:exported="false" />
+52-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:40:13-37
+53        <activity
+53-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:42:9-44:40
+54            android:name="com.example.screenrecorderdetector.SettingsActivity"
+54-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:43:13-45
+55            android:exported="false" />
+55-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:44:13-37
+56
+57        <receiver
+57-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:46:9-53:20
+58            android:name="com.example.screenrecorderdetector.BootReceiver"
+58-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:47:13-41
+59            android:enabled="true"
+59-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:48:13-35
+60            android:exported="true" >
+60-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:49:13-36
+61            <intent-filter>
+61-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:50:13-52:29
+62                <action android:name="android.intent.action.BOOT_COMPLETED" />
+62-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:51:17-79
+62-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:51:25-76
+63            </intent-filter>
+64        </receiver>
+65
+66        <service
+66-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:55:9-59:58
+67            android:name="com.example.screenrecorderdetector.ProtectionService"
+67-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:56:13-46
+68            android:enabled="true"
+68-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:57:13-35
+69            android:exported="false"
+69-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:58:13-37
+70            android:foregroundServiceType="specialUse" />
+70-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:59:13-55
+71        <service
+71-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:61:9-64:40
+72            android:name="com.example.screenrecorderdetector.OverlayService"
+72-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:62:13-43
+73            android:enabled="true"
+73-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:63:13-35
+74            android:exported="false" />
+74-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:64:13-37
+75        <service
+75-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:66:9-75:19
+76            android:name="com.example.screenrecorderdetector.RecorderNotificationListenerService"
+76-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:67:13-64
+77            android:enabled="true"
+77-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:68:13-35
+78            android:exported="false"
+78-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:69:13-37
+79            android:label="Screen recording detector"
+79-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:70:13-54
+80            android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" >
+80-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:71:13-87
+81            <intent-filter>
+81-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:72:13-74:29
+82                <action android:name="android.service.notification.NotificationListenerService" />
+82-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:73:17-99
+82-->C:\Users\aruna\Downloads\screen-shield-pro\android\app\src\main\AndroidManifest.xml:73:25-96
+83            </intent-filter>
+84        </service>
+85
+86        <provider
+86-->[androidx.emoji2:emoji2:1.2.0] C:\Users\aruna\.gradle\caches\8.13\transforms\894f9989cd9ccca95f470caf08973184\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+87            android:name="androidx.startup.InitializationProvider"
+87-->[androidx.emoji2:emoji2:1.2.0] C:\Users\aruna\.gradle\caches\8.13\transforms\894f9989cd9ccca95f470caf08973184\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+88            android:authorities="com.example.screenrecorderdetector.androidx-startup"
+88-->[androidx.emoji2:emoji2:1.2.0] C:\Users\aruna\.gradle\caches\8.13\transforms\894f9989cd9ccca95f470caf08973184\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+89            android:exported="false" >
+89-->[androidx.emoji2:emoji2:1.2.0] C:\Users\aruna\.gradle\caches\8.13\transforms\894f9989cd9ccca95f470caf08973184\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+90            <meta-data
+90-->[androidx.emoji2:emoji2:1.2.0] C:\Users\aruna\.gradle\caches\8.13\transforms\894f9989cd9ccca95f470caf08973184\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+91                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+91-->[androidx.emoji2:emoji2:1.2.0] C:\Users\aruna\.gradle\caches\8.13\transforms\894f9989cd9ccca95f470caf08973184\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+92                android:value="androidx.startup" />
+92-->[androidx.emoji2:emoji2:1.2.0] C:\Users\aruna\.gradle\caches\8.13\transforms\894f9989cd9ccca95f470caf08973184\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+93            <meta-data
+93-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\aruna\.gradle\caches\8.13\transforms\1227d66cb0270d1e54bd363ac42f7168\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+94                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+94-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\aruna\.gradle\caches\8.13\transforms\1227d66cb0270d1e54bd363ac42f7168\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+95                android:value="androidx.startup" />
+95-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\aruna\.gradle\caches\8.13\transforms\1227d66cb0270d1e54bd363ac42f7168\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+96            <meta-data
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+97                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+98                android:value="androidx.startup" />
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+99        </provider>
+100
+101        <receiver
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+102            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+102-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+103            android:directBootAware="false"
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+104            android:enabled="true"
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+105            android:exported="true"
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+106            android:permission="android.permission.DUMP" >
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+107            <intent-filter>
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+108                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+108-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+108-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+109            </intent-filter>
+110            <intent-filter>
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+111                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+111-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+111-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+112            </intent-filter>
+113            <intent-filter>
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+114                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+114-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+114-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+115            </intent-filter>
+116            <intent-filter>
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+117                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+117-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+117-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\aruna\.gradle\caches\8.13\transforms\2dcc5bb847875bd8b30e67405a036e29\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+118            </intent-filter>
+119        </receiver>
+120    </application>
+121
+122</manifest>

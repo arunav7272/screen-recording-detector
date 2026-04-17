@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\drawable_btn_danger_3d.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\drawable\\btn_danger_3d.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\drawable_bg_glass_card.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\drawable\\bg_glass_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\layout_overlay_layout.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\layout\\overlay_layout.xml"
+    },
+    {
+        "merged": "com.example.screenrecorderdetector.app-debug-32:/drawable_bg_chip.xml.flat",
+        "source": "com.example.screenrecorderdetector.app-main-34:/drawable/bg_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\drawable_bg_scan_line.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\drawable\\bg_scan_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\drawable_bg_fab_glow.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\drawable\\bg_fab_glow.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\drawable_btn_primary_3d.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\drawable\\btn_primary_3d.xml"
+    },
+    {
+        "merged": "com.example.screenrecorderdetector.app-debug-32:/drawable_btn_danger_3d.xml.flat",
+        "source": "com.example.screenrecorderdetector.app-main-34:/drawable/btn_danger_3d.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\drawable_btn_success_3d.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\drawable\\btn_success_3d.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\drawable_bg_app_shell.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\drawable\\bg_app_shell.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.screenrecorderdetector.app-debug-32:/drawable_bg_scan_line.xml.flat",
+        "source": "com.example.screenrecorderdetector.app-main-34:/drawable/bg_scan_line.xml"
+    },
+    {
+        "merged": "com.example.screenrecorderdetector.app-debug-32:/drawable_btn_success_3d.xml.flat",
+        "source": "com.example.screenrecorderdetector.app-main-34:/drawable/btn_success_3d.xml"
+    },
+    {
+        "merged": "com.example.screenrecorderdetector.app-debug-32:/drawable_bg_app_shell.xml.flat",
+        "source": "com.example.screenrecorderdetector.app-main-34:/drawable/bg_app_shell.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\anim_fade_scale_in.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\anim\\fade_scale_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.screenrecorderdetector.app-debug-32:/drawable_btn_primary_3d.xml.flat",
+        "source": "com.example.screenrecorderdetector.app-main-34:/drawable/btn_primary_3d.xml"
+    },
+    {
+        "merged": "com.example.screenrecorderdetector.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.screenrecorderdetector.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.screenrecorderdetector.app-debug-32:/drawable_bg_status_alert.xml.flat",
+        "source": "com.example.screenrecorderdetector.app-main-34:/drawable/bg_status_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\layout_item_app.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\layout\\item_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\anim_scan_sweep.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\anim\\scan_sweep.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\drawable_bg_status_alert.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\drawable\\bg_status_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\layout_activity_risk_alert.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\layout\\activity_risk_alert.xml"
+    },
+    {
+        "merged": "com.example.screenrecorderdetector.app-debug-32:/layout_item_app.xml.flat",
+        "source": "com.example.screenrecorderdetector.app-main-34:/layout/item_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\drawable_bg_status_safe.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\drawable\\bg_status_safe.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\drawable_bg_chip.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\drawable\\bg_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\anim_pulse_soft.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\anim\\pulse_soft.xml"
+    },
+    {
+        "merged": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-debug-32:\\drawable_ic_security.xml.flat",
+        "source": "C:\\Users\\aruna\\.gradle\\daemon\\8.13\\com.example.screenrecorderdetector.app-main-34:\\drawable\\ic_security.xml"
+    },
+    {
+        "merged": "com.example.screenrecorderdetector.app-debug-32:/drawable_bg_fab_glow.xml.flat",
+        "source": "com.example.screenrecorderdetector.app-main-34:/drawable/bg_fab_glow.xml"
+    },
+    {
+        "merged": "com.example.screenrecorderdetector.app-debug-32:/drawable_bg_status_safe.xml.flat",
+        "source": "com.example.screenrecorderdetector.app-main-34:/drawable/bg_status_safe.xml"
+    }
+]

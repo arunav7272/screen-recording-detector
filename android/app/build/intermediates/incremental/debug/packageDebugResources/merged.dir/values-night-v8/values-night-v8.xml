@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="card_stroke">#1C1C1C</color>
+    <color name="glass_panel">#E6000000</color>
+    <color name="glass_panel_alt">#CC050505</color>
+    <color name="gray_text">#A3A3A3</color>
+    <color name="ink_dark">#F5F5F5</color>
+    <color name="space_black">#000000</color>
+    <color name="status_active_bg">#101010</color>
+    <color name="status_active_text">#F3F4F6</color>
+    <color name="status_alert_bg">#101010</color>
+    <color name="status_alert_text">#F3F4F6</color>
+    <color name="status_card_bg">#050505</color>
+    <color name="status_card_stroke">#1C1C1C</color>
+    <color name="status_idle_bg">#101010</color>
+    <color name="status_idle_text">#C3CDD9</color>
+    <color name="text_primary_soft">#E5E7EB</color>
+    <color name="text_secondary_soft">#B6C0CF</color>
+    <color name="ui_alert_bg">#080808</color>
+    <color name="ui_alert_primary">#F3F4F6</color>
+    <color name="ui_background">#000000</color>
+    <color name="ui_card_stroke">#1C1C1C</color>
+    <color name="ui_icon_tint">#D1D5DB</color>
+    <color name="ui_risk_bg">#080808</color>
+    <color name="ui_risk_primary">#F3F4F6</color>
+    <color name="ui_risk_secondary">#B6C0CF</color>
+    <color name="ui_risk_stroke">#1C1C1C</color>
+    <color name="ui_surface">#050505</color>
+    <color name="ui_surface_soft">#0D0D0D</color>
+    <color name="ui_text_primary">#F3F4F6</color>
+    <color name="ui_text_secondary">#B6C0CF</color>
+    <color name="ui_visited_bg">#080808</color>
+    <color name="ui_visited_primary">#F3F4F6</color>
+    <color name="ui_visited_secondary">#B6C0CF</color>
+    <color name="ui_visited_stroke">#1C1C1C</color>
+</resources>
